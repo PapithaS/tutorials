@@ -24,12 +24,15 @@ This chapter will show you how to download and install the VSCode editor and the
 
 You can download the VSCode editor for Windows, Linux and MacOS here: https://code.visualstudio.com/download. Download and install the VSCode editor for your operating system.
 
-![Download VSCode](https://github.com/TelenorStartIoT/tutorials/blob/master/01-fipy-udp/assets/00-download-vscode.png)
+![Download VSCode](https://github.com/TelenorStartIoT/tutorials/install_pymakr_extension.jpg)
 
 ### 1.2 Install the Pymakr Plugin for VSCode
 
-When you have successfully installed the VSCode editor you need to enable VSCode to connect over USB to the FiPy dev-kit. For that, the VSCode editor needs the Pymakr plugin. You should follow the instructions given by Pycom in order to install the plugin: https://docs.pycom.io/pymakr/installation/vscode/
-
+When you have successfully installed the VSCode editor you need 'Pymakr' plugin to enable VSCode to connect over USB to the FiPy dev-kit. 
+To install 'pymakr' plugin
+    1.Click on extension icon.
+    2.Type 'pymakr' in search bar. Click on install
+    
 ![VSCode Pymakr plugin](https://github.com/TelenorStartIoT/tutorials/blob/master/01-fipy-udp/assets/01-pymakr.png)
 
 When both the VSCode editor and the Pymakr plugin have been successfully installed you are ready to connect and start programming your own firmware for the FiPy. The next chapter will show you how to connect your dev-kit to the VSCode editor.
